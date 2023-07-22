@@ -11,6 +11,8 @@ Progetto universitario sviluppato in C++ con il framework Qt 5.15.2
 4. **Score di idoneità**: L'applicazione permette di inserire per ogni candidato uno score di idoneità.
 5. **Gestione dele sessioni di lavoro**: Quando l'utente chiude l'applicazione, l'elenco dei candidati viene salvato,
   inclusi gli score di idoneità assegnati. Quando l'applicazione viene riaperta, i candidati della precedente sessione vengono automaticamente ricaricati.
+6. **Generazione grafici**: L'applicazione genera grafici statistici basati su età, genere ed occupazione dei candidati,
+  per fornire una panoramica delle caratteristiche dei candidati presenti.
 
 ## Installazione
 Per installare l'applicazione è necessario compilare il progetto utilizzando QtCreator 5.15.2.
