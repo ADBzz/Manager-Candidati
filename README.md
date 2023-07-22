@@ -1,5 +1,5 @@
 # Manager-Candidati
-Progetto universitario sviluppato in C++ con il framework Qt
+Progetto universitario sviluppato in C++ con il framework Qt 5.15.2
 
 ## Funzionalità dell'applicazione
 1. **Inserimento nuovi candidati**: L'utente può inserire un nuovo candidato attraverso due modalità:
